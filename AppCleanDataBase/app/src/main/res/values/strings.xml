@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppCleanDataBase</string>
+
+    <string name="title_book">Titulo:</string>
+    <string name="description_book">Descripcion:</string>
+    <string name="author_book">Autor:</string>
+    <string name="date_book">Fecha:</string>
+
+
+
 </resources>

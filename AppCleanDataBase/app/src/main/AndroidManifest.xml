@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCleanDataBase">
         <activity
+            android:name=".AddBooks"
+            android:exported="false" />
+        <activity
+            android:name=".Books"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
